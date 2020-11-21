@@ -24,7 +24,7 @@ samples, guidance on mobile development, and a full API reference.
 Building and running Digital-Clock in your local dev environment is very easy. Be sure that you have prior knowledge of `Android Studio`, then follow the directions below. 
  1. Clone the source code
 
- `https://github.com/mchairul/flutter-digital-clock,git`
+ `https://github.com/mchairul/flutter-digital-clock.git`
 
 
 2. Download `Flutter`. For more information about Flutter go to [this link](https://flutter.dev/docs/get-started/codelab)
